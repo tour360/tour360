@@ -1,1 +1,0 @@
-# aframe-360image
